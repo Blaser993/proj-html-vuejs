@@ -15,7 +15,7 @@
             
             
             <article class="container">
-                <h1>Lead ~  <span>Customer</span></h1>
+                <h1>Lead ~ <span>Customer</span></h1>
                 <p>Succesful strategies require data analysis, creativity and customer focus taking advantage of the latest technologies to offer excellent services.</p>
                 <ul class="row">
                     <li>{{ menu[menu.length-1] }}</li>
