@@ -1,15 +1,15 @@
 <template>
     
     <div class="container">
-        Header
+        Pricing
     </div>
-    
+
 </template>
 
 <script>
-	export default {
+export default {
 
-	}
+}
 </script>
 
 <style lang="scss" scoped> 
